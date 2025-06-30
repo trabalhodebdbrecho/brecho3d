@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|c:\\users\\priscila\\downloads\\projetobrecho3d-20250627t203725z-1-001\\projetobrecho3d\\sitebrechodo3d\\sitebrechodo3d\\convites.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\convites.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\priscila\\AppData\\Local\\Temp\\3zxri10o..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\transacoes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\transacoes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\gerenciarencontros.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\gerenciarencontros.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\alunos.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\alunos.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\roupas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\roupas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\gerenciarencontros.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\gerenciarencontros.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|c:\\users\\priscila\\downloads\\projetobrecho3d-20250627t203725z-1-001\\projetobrecho3d\\sitebrechodo3d\\sitebrechodo3d\\convites.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\convites.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\roupas.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\roupas.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\transacoes.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\transacoes.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\index.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\index.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\priscila\\AppData\\Local\\Temp\\4ca5gzym..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PRISCILA_DOWNLOADS_TRABALHOBD.MDF/True/SqlTable/dbo.Usuarios.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\priscila\\AppData\\Local\\Temp\\bwso5e1y..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\index.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\index.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\priscila\\AppData\\Local\\Temp\\u1q3edvz..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\usuarios.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\usuarios.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\priscila\\AppData\\Local\\Temp\\5efizuqs..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PRISCILA_DOWNLOADS_TRABALHOBD.MDF/True/SqlTable/dbo.Aluno.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\roupas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\roupas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\gerenciarencontros.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\gerenciarencontros.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\usuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\sitebrechodo3d\\gerenciarencontros.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A93A7D87-01FE-AD2F-9600-02DAA6C01C90}|C:\\Users\\aluno\\Documents\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D|solutionrelative:sitebrechodo3d\\gerenciarencontros.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3zxri10o..sql",
+              "DocumentMoniker": "C:\\Users\\priscila\\AppData\\Local\\Temp\\3zxri10o..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\3zxri10o..sql",
+              "ToolTip": "C:\\Users\\priscila\\AppData\\Local\\Temp\\3zxri10o..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\3zxri10o..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-29T21:38:48.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "convites.aspx",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\convites.aspx",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\convites.aspx",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\convites.aspx",
+              "RelativeToolTip": "SiteBrechodo3D\\convites.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-28T23:24:19.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "u1q3edvz..sql",
+              "DocumentMoniker": "C:\\Users\\priscila\\AppData\\Local\\Temp\\u1q3edvz..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\u1q3edvz..sql",
+              "ToolTip": "C:\\Users\\priscila\\AppData\\Local\\Temp\\u1q3edvz..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\u1q3edvz..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-28T23:28:43.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "convites.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\convites.aspx.vb",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\convites.aspx.vb",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\convites.aspx.vb",
+              "RelativeToolTip": "SiteBrechodo3D\\convites.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-28T23:44:24.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Aluno.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PRISCILA_DOWNLOADS_TRABALHOBD.MDF/True/SqlTable/dbo.Aluno.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PRISCILA_DOWNLOADS_TRABALHOBD.MDF/True/SqlTable/dbo.Aluno.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-27T21:26:52.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bwso5e1y..sql",
+              "DocumentMoniker": "C:\\Users\\priscila\\AppData\\Local\\Temp\\bwso5e1y..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\bwso5e1y..sql",
+              "ToolTip": "C:\\Users\\priscila\\AppData\\Local\\Temp\\bwso5e1y..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\bwso5e1y..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-29T19:50:54.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Usuarios.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PRISCILA_DOWNLOADS_TRABALHOBD.MDF/True/SqlTable/dbo.Usuarios.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PRISCILA_DOWNLOADS_TRABALHOBD.MDF/True/SqlTable/dbo.Usuarios.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-29T19:56:33.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "4ca5gzym..sql",
+              "DocumentMoniker": "C:\\Users\\priscila\\AppData\\Local\\Temp\\4ca5gzym..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\4ca5gzym..sql",
+              "ToolTip": "C:\\Users\\priscila\\AppData\\Local\\Temp\\4ca5gzym..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\4ca5gzym..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-29T20:16:25.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "5efizuqs..sql",
+              "DocumentMoniker": "C:\\Users\\priscila\\AppData\\Local\\Temp\\5efizuqs..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\5efizuqs..sql",
+              "ToolTip": "C:\\Users\\priscila\\AppData\\Local\\Temp\\5efizuqs..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\5efizuqs..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-28T23:23:57.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "transacoes.aspx",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\transacoes.aspx",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\transacoes.aspx",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\transacoes.aspx",
+              "RelativeToolTip": "SiteBrechodo3D\\transacoes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T21:01:45.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gerenciarencontros.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\gerenciarencontros.aspx.vb",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\gerenciarencontros.aspx.vb",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\gerenciarencontros.aspx.vb",
+              "RelativeToolTip": "SiteBrechodo3D\\gerenciarencontros.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-27T20:40:29.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "alunos.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\alunos.aspx.vb",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\alunos.aspx.vb",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\alunos.aspx.vb",
+              "RelativeToolTip": "SiteBrechodo3D\\alunos.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-29T18:36:43.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "roupas.aspx",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\roupas.aspx",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\roupas.aspx",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\roupas.aspx",
+              "RelativeToolTip": "SiteBrechodo3D\\roupas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T20:40:41.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gerenciarencontros.aspx",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\gerenciarencontros.aspx",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\gerenciarencontros.aspx",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\gerenciarencontros.aspx",
+              "RelativeToolTip": "SiteBrechodo3D\\gerenciarencontros.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T20:40:29.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "roupas.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\roupas.aspx.vb",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\roupas.aspx.vb",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\roupas.aspx.vb",
+              "RelativeToolTip": "SiteBrechodo3D\\roupas.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-27T20:50:12.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "transacoes.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\transacoes.aspx.vb",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\transacoes.aspx.vb",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\transacoes.aspx.vb",
+              "RelativeToolTip": "SiteBrechodo3D\\transacoes.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-29T00:04:32.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\index.aspx.vb",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\index.aspx.vb",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\index.aspx.vb",
+              "RelativeToolTip": "SiteBrechodo3D\\index.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-29T18:06:05.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "estilo.css",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\estilo.css",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\estilo.css",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\estilo.css",
+              "RelativeToolTip": "SiteBrechodo3D\\estilo.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-29T11:19:51.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\index.aspx",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\index.aspx",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\index.aspx",
+              "RelativeToolTip": "SiteBrechodo3D\\index.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T18:10:14.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "usuarios.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\usuarios.aspx.vb",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\usuarios.aspx.vb",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\usuarios.aspx.vb",
+              "RelativeToolTip": "SiteBrechodo3D\\usuarios.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-27T18:25:14.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "gerenciarencontros.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\gerenciarencontros.aspx.vb",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\gerenciarencontros.aspx.vb",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\gerenciarencontros.aspx.vb",
+              "RelativeToolTip": "SiteBrechodo3D\\gerenciarencontros.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-27T19:39:31.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "roupas.aspx",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\roupas.aspx",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\roupas.aspx",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\roupas.aspx",
+              "RelativeToolTip": "SiteBrechodo3D\\roupas.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T18:17:25.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "usuarios.aspx",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\usuarios.aspx",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\usuarios.aspx",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\usuarios.aspx",
+              "RelativeToolTip": "SiteBrechodo3D\\usuarios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T18:16:58.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "gerenciarencontros.aspx",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\gerenciarencontros.aspx",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\gerenciarencontros.aspx",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\gerenciarencontros.aspx",
+              "RelativeToolTip": "SiteBrechodo3D\\gerenciarencontros.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T18:13:51.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\index.aspx.vb",
+              "RelativeDocumentMoniker": "SiteBrechodo3D\\index.aspx.vb",
+              "ToolTip": "C:\\Users\\priscila\\Downloads\\ProjetoBrecho3D-20250627T203725Z-1-001\\ProjetoBrecho3D\\SiteBrechodo3D\\SiteBrechodo3D\\index.aspx.vb",
+              "RelativeToolTip": "SiteBrechodo3D\\index.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-27T18:11:54.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

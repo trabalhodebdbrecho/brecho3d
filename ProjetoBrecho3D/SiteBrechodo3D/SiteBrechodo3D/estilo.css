@@ -1,0 +1,35 @@
+﻿body {
+    background-color: #FDF3DE;
+}
+
+.h1.title {
+    color: #363636;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.box {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.button.is-primary {
+    background-color: #00d1b2;
+    border-color: #00c4a7;
+}
+
+    .button.is-primary:hover {
+        background-color: #00b89c;
+    }
+
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.field .label {
+    color: #363636;
+    font-weight: bold;
+}
