@@ -1,4 +1,4 @@
-🎒👗 Brechó Vintage Escolar - Estilo com História! 👖📚
+🎒👗 Brechó Escolar - Estilo com História! 👖📚
 
 Bem-vindo ao nosso Brechó Vintage Escolar, um projeto sustentável criado por alunos e professores com muito carinho! Aqui, damos uma nova vida a roupas, acessórios, livros e objetos com história. Cada peça tem sua própria memória e estilo único — perfeito para quem ama moda retrô, sustentabilidade e criatividade!
 
